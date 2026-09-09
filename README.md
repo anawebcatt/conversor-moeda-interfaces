@@ -27,6 +27,9 @@ Como a classe `CaixaTroca` depende unicamente da abstração fornecida pela inte
 ruby exemplo_uso.rb
 ```
 
+## Autor
+Ana Lucia Weber Cattani - 2596610
+
 ## Atividade
 
 Arquitetura de Software - Modularidade - Atividade 01
