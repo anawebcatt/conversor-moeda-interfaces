@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ruby
+*.gem
+.bundle/
+vendor/bundle/
+
+# Sistema
+.DS_Store
